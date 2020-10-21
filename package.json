@@ -1,0 +1,15 @@
+{
+  "name": "pin-pong",
+  "version": "1.0.0",
+  "description": "Little game on JS",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sadbarin",
+  "license": "ISC",
+  "devDependencies": {
+    "canvas": "^2.6.1",
+    "jsdom-quokka-plugin": "^1.0.15"
+  }
+}
